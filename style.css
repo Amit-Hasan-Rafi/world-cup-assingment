@@ -146,10 +146,9 @@ secound part of page
 #p2-banner{
     width: 1250px;
     height: 600px;
-    background-image: url(/assets/back.png);
+    background-image: url(/assets//back.png);
     background-size: 100%;
-    margin-left: 120px;
-    
+    margin-left: 120px; 
     margin-right: 120px;
     color: white;
     border-radius: 20px;
